@@ -1,4 +1,4 @@
-Develop Mobile App (TK1) with Javascript + Expo Go
+Develop Mobile App (TK1) with Expo
 
 Create note app
 
